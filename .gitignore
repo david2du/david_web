@@ -1,11 +1,2 @@
-*
-!.gitignore
-!*/
-!*.cpp
-!*.h
-!*.txt
-!*.md
-!*.code-workspace
-*.dSYM
 build/
 .vscode/
